@@ -4,9 +4,7 @@ A radar system built with Arduino Uno, an HC-SR04 ultrasonic sensor, a servo mot
 
 ## Demo
 
-![Hardware 1](docs/hardware1.jpeg)
-![Hardware 2](docs/hardware2.jpeg)
-![Hardware 3](docs/hardware3.jpeg)
+<img src="docs/hardware1.jpeg" width="300"/><img src="docs/hardware2.jpeg" width="300"/><img src="docs/hardware3.jpeg" width="300"/>
 
 ## Features
 
@@ -27,7 +25,7 @@ A radar system built with Arduino Uno, an HC-SR04 ultrasonic sensor, a servo mot
 
 ## Circuit Diagram
 
-![Circuit Diagram](docs/circuit.png)
+<img src="docs/circuit.png" width="600"/>
 
 ## Tech Stack
 
